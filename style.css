@@ -5,9 +5,8 @@ body {
     display: flex;
     flex-direction: row;
 }
-
 naw {
-    background-color: #c0c0c0;
+     background-color: #c0c0c0;
 }
 main {
     background-color: #D8BFD8;
